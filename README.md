@@ -6,6 +6,8 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_hello
 
 [Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'Hello CLI'.
 
+:warning: this course does not work until I've updated the scripts to use GitHub Actions :warning: 
+
 ## Goal
 
  * Write a command-line interface (CLI) application
